@@ -1,0 +1,47 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.ic_play_circle = void 0;
+var ic_play_circle = {
+  "viewBox": "0 0 24 24",
+  "children": [{
+    "name": "g",
+    "attribs": {},
+    "children": [{
+      "name": "rect",
+      "attribs": {
+        "fill": "none",
+        "height": "24",
+        "width": "24"
+      },
+      "children": [{
+        "name": "rect",
+        "attribs": {
+          "fill": "none",
+          "height": "24",
+          "width": "24"
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "name": "g",
+    "attribs": {},
+    "children": [{
+      "name": "path",
+      "attribs": {
+        "d": "M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M9.5,16.5v-9l7,4.5L9.5,16.5z"
+      },
+      "children": [{
+        "name": "path",
+        "attribs": {
+          "d": "M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M9.5,16.5v-9l7,4.5L9.5,16.5z"
+        },
+        "children": []
+      }]
+    }]
+  }]
+};
+exports.ic_play_circle = ic_play_circle;

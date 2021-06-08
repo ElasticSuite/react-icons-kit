@@ -1,0 +1,53 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.ic_do_disturb_on = void 0;
+var ic_do_disturb_on = {
+  "viewBox": "0 0 24 24",
+  "children": [{
+    "name": "g",
+    "attribs": {},
+    "children": [{
+      "name": "path",
+      "attribs": {
+        "d": "M0,0h24v24H0V0z",
+        "fill": "none"
+      },
+      "children": [{
+        "name": "path",
+        "attribs": {
+          "d": "M0,0h24v24H0V0z",
+          "fill": "none"
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "name": "g",
+    "attribs": {},
+    "children": [{
+      "name": "g",
+      "attribs": {},
+      "children": [{
+        "name": "g",
+        "attribs": {},
+        "children": [{
+          "name": "path",
+          "attribs": {
+            "d": "M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M17,13H7v-2h10V13z"
+          },
+          "children": [{
+            "name": "path",
+            "attribs": {
+              "d": "M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M17,13H7v-2h10V13z"
+            },
+            "children": []
+          }]
+        }]
+      }]
+    }]
+  }]
+};
+exports.ic_do_disturb_on = ic_do_disturb_on;

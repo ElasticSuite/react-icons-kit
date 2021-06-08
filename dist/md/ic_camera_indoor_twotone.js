@@ -1,0 +1,79 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.ic_camera_indoor_twotone = void 0;
+var ic_camera_indoor_twotone = {
+  "viewBox": "0 0 24 24",
+  "children": [{
+    "name": "g",
+    "attribs": {},
+    "children": [{
+      "name": "path",
+      "attribs": {
+        "d": "M0,0h24v24H0V0z",
+        "fill": "none"
+      },
+      "children": [{
+        "name": "path",
+        "attribs": {
+          "d": "M0,0h24v24H0V0z",
+          "fill": "none"
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "name": "g",
+    "attribs": {},
+    "children": [{
+      "name": "g",
+      "attribs": {},
+      "children": [{
+        "name": "g",
+        "attribs": {},
+        "children": [{
+          "name": "path",
+          "attribs": {
+            "d": "M6,10v9h12v-9l-6-4.5L6,10z M14,12v1l2-1.06v4.12L14,15v1c0,0.55-0.45,1-1,1H9c-0.55,0-1-0.45-1-1v-4 c0-0.55,0.45-1,1-1h4C13.55,11,14,11.45,14,12z",
+            "opacity": ".3"
+          },
+          "children": [{
+            "name": "path",
+            "attribs": {
+              "d": "M6,10v9h12v-9l-6-4.5L6,10z M14,12v1l2-1.06v4.12L14,15v1c0,0.55-0.45,1-1,1H9c-0.55,0-1-0.45-1-1v-4 c0-0.55,0.45-1,1-1h4C13.55,11,14,11.45,14,12z",
+              "opacity": ".3"
+            },
+            "children": []
+          }]
+        }, {
+          "name": "path",
+          "attribs": {
+            "d": "M8,12v4c0,0.55,0.45,1,1,1h4c0.55,0,1-0.45,1-1v-1l2,1.06v-4.12L14,13v-1c0-0.55-0.45-1-1-1H9C8.45,11,8,11.45,8,12z"
+          },
+          "children": [{
+            "name": "path",
+            "attribs": {
+              "d": "M8,12v4c0,0.55,0.45,1,1,1h4c0.55,0,1-0.45,1-1v-1l2,1.06v-4.12L14,13v-1c0-0.55-0.45-1-1-1H9C8.45,11,8,11.45,8,12z"
+            },
+            "children": []
+          }]
+        }, {
+          "name": "path",
+          "attribs": {
+            "d": "M12,3L4,9v12h16V9L12,3z M18,19H6v-9l6-4.5l6,4.5V19z"
+          },
+          "children": [{
+            "name": "path",
+            "attribs": {
+              "d": "M12,3L4,9v12h16V9L12,3z M18,19H6v-9l6-4.5l6,4.5V19z"
+            },
+            "children": []
+          }]
+        }]
+      }]
+    }]
+  }]
+};
+exports.ic_camera_indoor_twotone = ic_camera_indoor_twotone;

@@ -1,0 +1,25 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.ic_align_horizontal_left_twotone = void 0;
+var ic_align_horizontal_left_twotone = {
+  "viewBox": "0 0 24 24",
+  "children": [{
+    "name": "rect",
+    "attribs": {
+      "fill": "none",
+      "height": "24",
+      "width": "24"
+    },
+    "children": []
+  }, {
+    "name": "path",
+    "attribs": {
+      "d": "M4,22H2V2h2V22z M22,7H6v3h16V7z M16,14H6v3h10V14z"
+    },
+    "children": []
+  }]
+};
+exports.ic_align_horizontal_left_twotone = ic_align_horizontal_left_twotone;
