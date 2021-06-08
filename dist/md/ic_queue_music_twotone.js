@@ -1,0 +1,67 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.ic_queue_music_twotone = void 0;
+var ic_queue_music_twotone = {
+  "viewBox": "0 0 24 24",
+  "children": [{
+    "name": "g",
+    "attribs": {},
+    "children": [{
+      "name": "rect",
+      "attribs": {
+        "fill": "none",
+        "height": "24",
+        "width": "24"
+      },
+      "children": [{
+        "name": "rect",
+        "attribs": {
+          "fill": "none",
+          "height": "24",
+          "width": "24"
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "name": "g",
+    "attribs": {},
+    "children": [{
+      "name": "circle",
+      "attribs": {
+        "cx": "16",
+        "cy": "17",
+        "enable-background": "new",
+        "opacity": ".3",
+        "r": "1"
+      },
+      "children": [{
+        "name": "circle",
+        "attribs": {
+          "cx": "16",
+          "cy": "17",
+          "enable-background": "new",
+          "opacity": ".3",
+          "r": "1"
+        },
+        "children": []
+      }]
+    }, {
+      "name": "path",
+      "attribs": {
+        "d": "M3,10h12v2H3V10z M3,14h8v2H3V14z M3,6h12v2H3V6z M17,14.18C16.69,14.07,16.35,14,16,14c-1.66,0-3,1.34-3,3s1.34,3,3,3 s3-1.34,3-3V8h3V6h-5V14.18z"
+      },
+      "children": [{
+        "name": "path",
+        "attribs": {
+          "d": "M3,10h12v2H3V10z M3,14h8v2H3V14z M3,6h12v2H3V6z M17,14.18C16.69,14.07,16.35,14,16,14c-1.66,0-3,1.34-3,3s1.34,3,3,3 s3-1.34,3-3V8h3V6h-5V14.18z"
+        },
+        "children": []
+      }]
+    }]
+  }]
+};
+exports.ic_queue_music_twotone = ic_queue_music_twotone;

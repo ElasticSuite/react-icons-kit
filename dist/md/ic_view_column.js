@@ -1,0 +1,35 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.ic_view_column = void 0;
+var ic_view_column = {
+  "viewBox": "0 0 24 24",
+  "children": [{
+    "name": "rect",
+    "attribs": {
+      "fill": "none",
+      "height": "24",
+      "width": "24"
+    },
+    "children": []
+  }, {
+    "name": "g",
+    "attribs": {},
+    "children": [{
+      "name": "path",
+      "attribs": {
+        "d": "M14.67,5v14H9.33V5H14.67z M15.67,19H21V5h-5.33V19z M8.33,19V5H3v14H8.33z"
+      },
+      "children": [{
+        "name": "path",
+        "attribs": {
+          "d": "M14.67,5v14H9.33V5H14.67z M15.67,19H21V5h-5.33V19z M8.33,19V5H3v14H8.33z"
+        },
+        "children": []
+      }]
+    }]
+  }]
+};
+exports.ic_view_column = ic_view_column;

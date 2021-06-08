@@ -1,0 +1,25 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.ic_view_list_outline = void 0;
+var ic_view_list_outline = {
+  "viewBox": "0 0 24 24",
+  "children": [{
+    "name": "rect",
+    "attribs": {
+      "fill": "none",
+      "height": "24",
+      "width": "24"
+    },
+    "children": []
+  }, {
+    "name": "path",
+    "attribs": {
+      "d": "M3,5v14h18V5H3z M7,7v2H5V7H7z M5,13v-2h2v2H5z M5,15h2v2H5V15z M19,17H9v-2h10V17z M19,13H9v-2h10V13z M19,9H9V7h10V9z"
+    },
+    "children": []
+  }]
+};
+exports.ic_view_list_outline = ic_view_list_outline;
